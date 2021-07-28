@@ -1,0 +1,427 @@
+s__nombre_completo	s__fuente	municipios__nombre	municipios__id	municipios__provincia__nombre	municipios__provincia__id	municipios__provincia__interseccion	municipios__categoria	municipios__centroide__lat	municipios__centroide__lon	inicio
+ Ballesteros	Direc. Grl. de Catastro	Ballesteros	141596	Córdoba	14	2,99E+09	Municipio	-32.546.237.695.526	-629.807.310.033.667	
+ Río Bamba	Direc. Grl. de Catastro	Río Bamba	142455	Córdoba	14	6,79E+07	Comuna	-340.601.407.054.622	-637.340.063.162.336	
+ Río Ceballos	Direc. Grl. de Catastro	Río Ceballos	140147	Córdoba	14	0.000735969860394568	Municipio	-311.729.826.637.303	-643.191.044.525.332	
+ Bialet Massé	Direc. Grl. de Catastro	Bialet Massé	140665	Córdoba	14	0.000360539684009383	Municipio	-313.121.237.322.311	-645.025.780.020.643	
+ Jesús María	Direc. Grl. de Catastro	Jesús María	140112	Córdoba	14	0.000592796494583725	Municipio	-309.830.362.325.549	-641.282.788.962.145	
+ La Cautiva	Direc. Grl. de Catastro	La Cautiva	140826	Córdoba	14	9,84E+09	Municipio	-339.820.493.176.756	-640.855.019.234.334	
+ La Granja	Direc. Grl. de Catastro	La Granja	140126	Córdoba	14	0.00069157902268045	Municipio	-310.000.989.874.002	-642.753.880.432.833	
+ Colazo	Direc. Grl. de Catastro	Colazo	141001	Córdoba	14	1,24E+09	Municipio	-319.618.836.173.473	-633.815.414.522.131	
+ Achiras	Direc. Grl. de Catastro	Achiras	140756	Córdoba	14	7,11E+09	Municipio	-331.696.958.774.564	-649.783.311.643.432	
+ Agua de Oro	Direc. Grl. de Catastro	Agua de Oro	140084	Córdoba	14	0.000682466508936099	Municipio	-310.500.245.015.485	-643.259.937.691.715	
+ Alto de los Quebrachos	Direc. Grl. de Catastro	Alto de los Quebrachos	142133	Córdoba	14	0.00105460288157235	Comuna	-305.351.780.991.222	-651.225.465.080.377	
+ Ambul	Direc. Grl. de Catastro	Ambul	142833	Córdoba	14	0.000683877161112219	Comuna	-315.186.767.924.263	-650.780.298.240.083	
+ Arias	Direc. Grl. de Catastro	Arias	140483	Córdoba	14	4,51E+09	Municipio	-336.394.688.790.659	-624.028.701.481.866	
+ Atahona	Direc. Grl. de Catastro	Atahona	142609	Córdoba	14	4,69E+08	Comuna	-308.588.942.256.558	-636.494.965.710.203	
+ Arroyito	Direc. Grl. de Catastro	Arroyito	141176	Córdoba	14	0.000124926261143736	Municipio	-314.197.877.113.034	-630.461.064.879.716	
+ Bengolea	Direc. Grl. de Catastro	Bengolea	140392	Córdoba	14	9,18E+08	Municipio	-330.277.675.204.366	-636.714.870.729.591	
+ Benjamín Gould	Direc. Grl. de Catastro	Benjamín Gould	141617	Córdoba	14	1,70E+09	Municipio	-335.839.636.595.371	-627.275.448.917.718	
+ Cavanagh	Direc. Grl. de Catastro	Cavanagh	140504	Córdoba	14	1,30E+08	Municipio	-33.477.401.802.254	-623.387.928.906.849	
+ Cañada de Luque	Direc. Grl. de Catastro	Cañada de Luque	141512	Córdoba	14	0.000130356240889257	Municipio	-307.381.485.912.168	-63.725.138.408.134	
+ Villa del Dique	Direc. Grl. de Catastro	Villa del Dique	140042	Córdoba	14	0.00040043127999072	Municipio	-321.348.568.466.706	-644.331.269.585.083	
+ Casa Grande	Direc. Grl. de Catastro	Casa Grande	142476	Córdoba	14	4,53E+09	Comuna	-311.582.887.825.211	-64.478.139.337.956	
+ Charras	Direc. Grl. de Catastro	Charras	140406	Córdoba	14	1,41E+09	Municipio	-330.231.292.173.334	-640.481.926.881.725	
+ Colonia Bremen	Direc. Grl. de Catastro	Colonia Bremen	143239	Córdoba	14	7,10E+08	Comuna	-334.634.143.562.878	-62.730.992.323.301	
+ Colonia las Cuatro Esquinas	Direc. Grl. de Catastro	Colonia las Cuatro Esquinas	142637	Córdoba	14	6,16E+09	Comuna	-312.036.266.461.889	-632.243.244.282.166	
+ Colonia Marina	Direc. Grl. de Catastro	Colonia Marina	141197	Córdoba	14	6,45E+08	Municipio	-312.488.859.057.542	-623.626.031.807.013	
+ Colonia Italiana	Direc. Grl. de Catastro	Colonia Italiana	140511	Córdoba	14	2,08E+09	Municipio	-333.065.740.201.285	-621.813.642.349.834	
+ Colonia Iturraspe	Direc. Grl. de Catastro	Colonia Iturraspe	142938	Córdoba	14	3,80E+07	Comuna	-312.076.433.233.757	-62.111.193.657.276	
+ Colonia Tirolesa	Direc. Grl. de Catastro	Colonia Tirolesa	140098	Córdoba	14	0.00225842561256202	Municipio	-312.182.550.189.733	-640.295.107.530.515	
+ Colonia las Pichanas	Direc. Grl. de Catastro	Colonia las Pichanas	142945	Córdoba	14	0.000133997531751232	Comuna	-313.039.964.065.618	-629.366.942.797.858	
+ Villa Yacanto	Direc. Grl. de Catastro	Villa Yacanto	140070	Córdoba	14	0.0032349812192805	Municipio	-32.122.539.446.147	-647.855.875.348.449	
+ El Rastreador	Direc. Grl. de Catastro	El Rastreador	142315	Córdoba	14	3,82E+08	Comuna	-336.654.575.921.611	-635.399.472.201.016	
+ Costasacate	Direc. Grl. de Catastro	Costasacate	141008	Córdoba	14	8,72E+08	Municipio	-316.470.824.674.008	-637.622.771.614.346	
+ Embalse	Direc. Grl. de Catastro	Embalse	140007	Córdoba	14	0.000562694763024145	Municipio	-322.156.832.682.067	-643.816.869.058.496	
+ Colonia San Bartolomé	Direc. Grl. de Catastro	Colonia San Bartolomé	141211	Córdoba	14	7,65E+08	Municipio	-315.279.808.890.143	-627.236.406.722.185	
+ Del Campillo	Direc. Grl. de Catastro	Del Campillo	140217	Córdoba	14	3,79E+09	Municipio	-343.738.504.142.088	-645.317.794.477.809	
+ El Chacho	Direc. Grl. de Catastro	El Chacho	142364	Córdoba	14	0.000353339017430048	Comuna	-308.087.116.780.106	-654.590.362.546.606	
+ El Crispín	Direc. Grl. de Catastro	El Crispín	142658	Córdoba	14	3,67E+07	Comuna	-310.189.797.076.703	-636.071.854.343.479	
+ El Fortín	Direc. Grl. de Catastro	El Fortín	141239	Córdoba	14	8,19E+08	Municipio	-319.696.658.576.857	-623.017.073.883.342	
+ Guatimozín	Direc. Grl. de Catastro	Guatimozín	140546	Córdoba	14	2,78E+09	Municipio	-334.605.679.567.117	-62.433.942.915.908	
+ El Rodeo	Direc. Grl. de Catastro	El Rodeo	143211	Córdoba	14	1,82E+09	Comuna	-301.647.579.225.083	-638.576.472.993.799	
+ Estancia de Guadalupe	Direc. Grl. de Catastro	Estancia de Guadalupe	142371	Córdoba	14	0.00130029724947792	Comuna	-311.856.303.095.222	-652.460.012.237.226	
+ Etruria	Direc. Grl. de Catastro	Etruria	140294	Córdoba	14	1,86E+09	Municipio	-329.395.872.460.527	-632.476.339.192.828	
+ General Cabrera	Direc. Grl. de Catastro	General Cabrera	140413	Córdoba	14	4,54E+09	Municipio	-328.126.298.411.653	-638.707.446.907.222	
+ Guasapampa	Direc. Grl. de Catastro	Guasapampa	142378	Córdoba	14	0.000865412670237903	Comuna	-31.134.641.078.071	-653.098.829.147.869	
+ Huerta Grande	Direc. Grl. de Catastro	Huerta Grande	140686	Córdoba	14	7,99E+09	Municipio	-31.072.010.551.809	-644.965.933.938.749	
+ Huinca Renancó	Direc. Grl. de Catastro	Huinca Renancó	140224	Córdoba	14	8,00E+09	Municipio	-348.375.108.995.881	-643.759.223.052.139	
+ Idiazabal	Direc. Grl. de Catastro	Idiazabal	141652	Córdoba	14	1,77E+08	Municipio	-328.118.251.859.775	-630.314.306.796.737	
+ Impira	Direc. Grl. de Catastro	Impira	142812	Córdoba	14	2,92E+08	Comuna	-317.968.283.637.741	-636.502.998.161.586	
+ La Cesira	Direc. Grl. de Catastro	La Cesira	140623	Córdoba	14	9,99E+08	Municipio	-339.522.414.433.712	-629.759.295.184.544	
+ La Francia	Direc. Grl. de Catastro	La Francia	141260	Córdoba	14	5,81E+09	Municipio	-314.046.082.891.522	-626.361.489.012.367	
+ La Paquita	Direc. Grl. de Catastro	La Paquita	141267	Córdoba	14	8,40E+08	Municipio	-309.068.096.845.912	-62.215.044.195.689	
+ Laborde	Direc. Grl. de Catastro	Laborde	141666	Córdoba	14	2,91E+09	Municipio	-331.508.319.281.254	-628.591.932.549.994	
+ Laboulaye	Direc. Grl. de Catastro	Laboulaye	140630	Córdoba	14	9,70E+08	Municipio	-341.281.097.677.491	-633.878.358.370.211	
+ Laguna Larga	Direc. Grl. de Catastro	Laguna Larga	141015	Córdoba	14	8,89E+09	Municipio	-317.757.220.077.539	-637.859.839.452.442	
+ Colonia San Pedro	Direc. Grl. de Catastro	Colonia San Pedro	142952	Córdoba	14	7,51E+07	Comuna	-307.826.893.147.179	-619.173.543.437.841	
+ La Pampa	Direc. Grl. de Catastro	La Pampa	143183	Córdoba	14	4,37E+09	Comuna	-309.460.219.430.716	-642.677.377.008.499	
+ La Población	Direc. Grl. de Catastro	La Población	142896	Córdoba	14	0.000337066898683851	Comuna	-320.779.893.265.375	-649.970.015.769.107	
+ La Posta	Direc. Grl. de Catastro	La Posta	142679	Córdoba	14	8,03E+06	Comuna	-305.684.483.421.589	-635.150.983.800.264	
+ La Rancherita	Direc. Grl. de Catastro	La Rancherita	143029	Córdoba	14	1,74E+09	Comuna	-31.755.784.835.336	-644.614.102.717.181	
+ La Rinconada	Direc. Grl. de Catastro	La Rinconada	142763	Córdoba	14	4,90E+08	Comuna	-301.602.808.580.713	-629.334.837.181.419	
+ General Deheza	Direc. Grl. de Catastro	General Deheza	140420	Córdoba	14	0.000108576615879999	Municipio	-327.619.158.521.806	-637.924.284.582.828	
+ La Tordilla	Direc. Grl. de Catastro	La Tordilla	141274	Córdoba	14	6,19E+08	Municipio	-312.431.510.613.549	-630.622.120.893.958	
+ Las Acequias	Direc. Grl. de Catastro	Las Acequias	140833	Córdoba	14	2,30E+08	Municipio	-33.280.100.079.492	-639.782.972.324.101	
+ General Fotheringham	Direc. Grl. de Catastro	General Fotheringham	143141	Córdoba	14	7,00E+08	Comuna	-323.218.044.631.245	-638.678.208.637.172	
+ Las Higueras	Direc. Grl. de Catastro	Las Higueras	140840	Córdoba	14	6,68E+09	Municipio	-331.041.248.833.881	-642.944.375.380.398	
+ Las Isletillas	Direc. Grl. de Catastro	Las Isletillas	143148	Córdoba	14	3,46E+08	Comuna	-325.081.704.675.122	-639.294.208.789.592	
+ Las Junturas	Direc. Grl. de Catastro	Las Junturas	141022	Córdoba	14	1,01E+09	Municipio	-31.829.574.096.629	-634.501.240.234.635	
+ General Levalle	Direc. Grl. de Catastro	General Levalle	140616	Córdoba	14	2,76E+09	Municipio	-340.132.450.114.982	-639.268.210.537.681	
+ Las Vertientes	Direc. Grl. de Catastro	Las Vertientes	140847	Córdoba	14	1,02E+09	Municipio	-332.821.528.731.581	-645.798.008.584.753	
+ Leguizamón	Direc. Grl. de Catastro	Leguizamón	142448	Córdoba	14	1,30E+08	Comuna	-3.420.479.128.376	-629.791.788.265.997	
+ Los Cerrillos	Direc. Grl. de Catastro	Los Cerrillos	142910	Córdoba	14	0.000533003597760339	Comuna	-31.949.964.905.103	-654.006.487.224.588	
+ Los Chañaritos (C.D. Eje)	Direc. Grl. de Catastro	Los Chañaritos (C.D. Eje)	142196	Córdoba	14	6,47E+07	Comuna	-314.014.391.052.477	-633.341.908.709.153	
+ Los Cocos	Direc. Grl. de Catastro	Los Cocos	140707	Córdoba	14	6,07E+09	Municipio	-309.267.368.141.278	-645.025.995.122.289	
+ Los Hornillos	Direc. Grl. de Catastro	Los Hornillos	142917	Córdoba	14	6,39E+09	Comuna	-318.985.332.069.954	-649.874.489.410.362	
+ Los Mistoles	Direc. Grl. de Catastro	Los Mistoles	143190	Córdoba	14	5,66E+08	Comuna	-30.626.345.939.801	-638.831.334.918.174	
+ Los Pozos	Direc. Grl. de Catastro	Los Pozos	142287	Córdoba	14	1,22E+09	Comuna	-305.184.524.118.584	-642.649.072.173.164	
+ Maquinista Gallini	Direc. Grl. de Catastro	Maquinista Gallini	142707	Córdoba	14	1,03E+09	Comuna	-309.181.978.256.885	-635.346.280.358.157	
+ Marull	Direc. Grl. de Catastro	Marull	141295	Córdoba	14	1,03E+09	Municipio	-309.962.750.605.161	-628.244.615.926.655	
+ Los Talares	Direc. Grl. de Catastro	Los Talares	142420	Córdoba	14	0.000116200363136771	Comuna	-314.025.933.536.005	-650.582.614.564.783	
+ Los Zorros	Direc. Grl. de Catastro	Los Zorros	141470	Córdoba	14	1,22E+09	Municipio	-320.450.607.687.749	-632.063.904.788.812	
+ Lucio V. Mansilla	Direc. Grl. de Catastro	Lucio V. Mansilla	141554	Córdoba	14	2,48E+07	Municipio	-297.949.326.862.785	-646.680.541.082.337	
+ Luque	Direc. Grl. de Catastro	Luque	141029	Córdoba	14	3,72E+09	Municipio	-316.466.335.826.392	-633.411.184.061.502	
+ Luyaba	Direc. Grl. de Catastro	Luyaba	142924	Córdoba	14	0.00119467462067495	Comuna	-321.482.687.509.277	-650.741.168.663.064	
+ Malena	Direc. Grl. de Catastro	Malena	142581	Córdoba	14	5,74E+08	Comuna	-334.904.506.753.776	-644.317.442.961.675	
+ Pampayasta Norte	Direc. Grl. de Catastro	Pampayasta Norte	143155	Córdoba	14	5,67E+08	Comuna	-322.379.956.630.961	-636.569.925.653.938	
+ Panaholma	Direc. Grl. de Catastro	Panaholma	142861	Córdoba	14	0.000282302393073217	Comuna	-316.204.775.594.048	-650.686.397.589.954	
+ Manfredi	Direc. Grl. de Catastro	Manfredi	141036	Córdoba	14	1,08E+09	Municipio	-318.442.770.336.696	-637.430.657.929.285	
+ Potrero de Garay	Direc. Grl. de Catastro	Potrero de Garay	143050	Córdoba	14	0.000655316280692244	Comuna	-318.011.586.456.791	-645.891.432.550.297	
+ Matorrales	Direc. Grl. de Catastro	Matorrales	141043	Córdoba	14	8,32E+08	Municipio	-317.149.605.696.137	-635.124.530.187.689	
+ Melo	Direc. Grl. de Catastro	Melo	140637	Córdoba	14	8,40E+09	Municipio	-343.493.518.732.702	-634.365.776.529.174	
+ Río de los Sauces	Direc. Grl. de Catastro	Río de los Sauces	140028	Córdoba	14	0.00453252005311875	Municipio	-325.008.531.571.475	-64.712.137.834.636	
+ Mi Granja	Direc. Grl. de Catastro	Mi Granja	142119	Córdoba	14	0.000250838941202381	Comuna	-313.275.574.709.174	-639.790.002.860.052	
+ Monte de los Gauchos	Direc. Grl. de Catastro	Monte de los Gauchos	140854	Córdoba	14	3,07E+09	Municipio	-33.636.040.233.796	-639.021.542.900.956	
+ Nicolás Bruzzone	Direc. Grl. de Catastro	Nicolás Bruzzone	142224	Córdoba	14	1,50E+09	Comuna	-344.416.086.343.239	-643.382.488.459.279	
+ Nono	Direc. Grl. de Catastro	Nono	141099	Córdoba	14	0.0015068539536003	Municipio	-318.047.247.770.572	-650.089.907.188.352	
+ Pacheco de Melo	Direc. Grl. de Catastro	Pacheco de Melo	142322	Córdoba	14	2,07E+08	Comuna	-337.577.742.616.375	-634.894.551.789.837	
+ Pilar	Direc. Grl. de Catastro	Pilar	141057	Córdoba	14	0.000167101646158609	Municipio	-316.802.864.251.569	-638.821.893.916.396	
+ Plaza de Mercedes	Direc. Grl. de Catastro	Plaza de Mercedes	142714	Córdoba	14	2,33E+08	Comuna	-30.977.225.049.207	-632.611.760.527.181	
+ Pozo del Molle	Direc. Grl. de Catastro	Pozo del Molle	141064	Córdoba	14	2,22E+09	Municipio	-320.191.752.758.653	-629.178.333.970.772	
+ Pueblo Italiano	Direc. Grl. de Catastro	Pueblo Italiano	141715	Córdoba	14	9,95E+08	Municipio	-338.797.412.509.003	-62.841.904.643.319	
+ Ranqueles	Direc. Grl. de Catastro	Ranqueles	142245	Córdoba	14	2,31E+08	Comuna	-348.429.525.115.099	-640.999.800.172.126	
+ Rayo Cortado	Direc. Grl. de Catastro	Rayo Cortado	142784	Córdoba	14	4,39E+09	Comuna	-300.719.376.972.619	-63.828.433.136.014	
+ Rosales	Direc. Grl. de Catastro	Rosales	140644	Córdoba	14	7,38E+08	Municipio	-341.747.592.562.317	-631.529.797.656.943	
+ Rosario del Saladillo	Direc. Grl. de Catastro	Rosario del Saladillo	143218	Córdoba	14	4,71E+08	Comuna	-30.365.342.954.353	-633.904.225.262.121	
+ Sagrada Familia	Direc. Grl. de Catastro	Sagrada Familia	142721	Córdoba	14	1,05E+08	Comuna	-312.879.311.408.046	-634.453.892.518.836	
+ San Antonio de Litín	Direc. Grl. de Catastro	San Antonio de Litín	141722	Córdoba	14	8,80E+08	Municipio	-322.154.566.164.449	-626.331.396.610.771	
+ Santa Catalina	Direc. Grl. de Catastro	Santa Catalina	140882	Córdoba	14	3,83E+09	Municipio	-332.024.080.778.911	-644.262.539.399.712	
+ Santa Eufemia	Direc. Grl. de Catastro	Santa Eufemia	140462	Córdoba	14	2,60E+09	Municipio	-331.935.446.312.946	-632.841.258.885.037	
+ Santiago Temple	Direc. Grl. de Catastro	Santiago Temple	141078	Córdoba	14	1,29E+09	Municipio	-31.389.999.537.335	-634.185.697.040.229	
+ San Esteban	Direc. Grl. de Catastro	San Esteban	140714	Córdoba	14	3,82E+08	Municipio	-309.214.339.905.767	-64.531.631.091.885	
+ San Javier y Yacanto	Direc. Grl. de Catastro	San Javier y Yacanto	141134	Córdoba	14	0.000382515805435921	Municipio	-320.189.945.410.788	-65.035.648.976.824	
+ San Joaquín	Direc. Grl. de Catastro	San Joaquín	142462	Córdoba	14	1,21E+09	Comuna	-34.510.881.493.493	-637.131.847.442	
+ San José de la Dormida	Direc. Grl. de Catastro	San José de la Dormida	141561	Córdoba	14	6,00E+08	Municipio	-303.571.542.328.118	-63.947.567.595.877	
+ San José de las Salinas	Direc. Grl. de Catastro	San José de las Salinas	141568	Córdoba	14	1,33E+09	Municipio	-300.065.939.301.358	-645.964.266.269.363	
+ San Marcos Sud	Direc. Grl. de Catastro	San Marcos Sud	141729	Córdoba	14	2,47E+09	Municipio	-326.262.603.360.861	-624.804.580.153.711	
+ San Pedro Norte	Direc. Grl. de Catastro	San Pedro Norte	141575	Córdoba	14	3,44E+09	Municipio	-302.554.577.373.609	-642.146.114.629.847	
+ San Roque	Direc. Grl. de Catastro	San Roque	142518	Córdoba	14	4,38E+09	Comuna	-313.514.245.506.072	-64.450.467.547.614	
+ Santa María de Punilla	Direc. Grl. de Catastro	Santa María de Punilla	140721	Córdoba	14	0.000427540755147797	Municipio	-312.670.502.928.978	-645.162.902.727.265	
+ Saturnino María Laspiur	Direc. Grl. de Catastro	Saturnino María Laspiur	141344	Córdoba	14	1,08E+09	Municipio	-31.703.457.733.837	-624.833.254.315.983	
+ Sebastián Elcano	Direc. Grl. de Catastro	Sebastián Elcano	140959	Córdoba	14	2,08E+09	Municipio	-301.594.216.007.127	-635.927.415.022.851	
+ Seeber	Direc. Grl. de Catastro	Seeber	141351	Córdoba	14	2,26E+09	Municipio	-309.253.280.210.718	-620.196.850.759.195	
+ Segunda Usina	Direc. Grl. de Catastro	Segunda Usina	142070	Córdoba	14	4,88E+09	Comuna	-32.175.259.843.518	-643.726.926.526.339	
+ Serrano	Direc. Grl. de Catastro	Serrano	140651	Córdoba	14	4,20E+09	Municipio	-344.755.850.792.197	-635.333.659.644.618	
+ Villa Concepción del Tío	Direc. Grl. de Catastro	Villa Concepción del Tío	141365	Córdoba	14	4,66E+09	Municipio	-313.297.975.420.494	-62.812.206.116.271	
+ Silvio Pellico	Direc. Grl. de Catastro	Silvio Pellico	140336	Córdoba	14	4,75E+08	Municipio	-322.511.789.287.088	-629.325.509.169.843	
+ Villa del Prado	Direc. Grl. de Catastro	Villa del Prado	143085	Córdoba	14	5,28E+09	Comuna	-316.204.677.227.677	-643.917.917.466.749	
+ Talaini	Direc. Grl. de Catastro	Talaini	142392	Córdoba	14	0.000279055235842433	Comuna	-312.400.441.687.223	-65.173.844.571.924	
+ Tinoco	Direc. Grl. de Catastro	Tinoco	142728	Córdoba	14	0.00146079767079093	Comuna	-311.045.315.982.935	-639.052.535.784.127	
+ Toledo	Direc. Grl. de Catastro	Toledo	141407	Córdoba	14	2,22E+08	Municipio	-315.526.503.925.745	-640.108.138.150.316	
+ Villa la Bolsa	Direc. Grl. de Catastro	Villa la Bolsa	143092	Córdoba	14	1,78E+09	Comuna	-317.320.720.279.432	-644.294.772.612.583	
+ Valle Hermoso	Direc. Grl. de Catastro	Valle Hermoso	140735	Córdoba	14	0.000332614016579003	Municipio	-31.132.372.566.268	-644.920.990.495.328	
+ Villa Allende	Direc. Grl. de Catastro	Villa Allende	140175	Córdoba	14	0.000591553091685961	Municipio	-312.723.301.734.498	-643.361.456.913.081	
+ Villa Rossi	Direc. Grl. de Catastro	Villa Rossi	140658	Córdoba	14	8,52E+08	Municipio	-3.429.760.379.345	-632.704.154.896.919	
+ Villa Ascasubi	Direc. Grl. de Catastro	Villa Ascasubi	141505	Córdoba	14	0.000156027979643749	Municipio	-321.694.820.041.982	-638.898.773.171.195	
+ Villa Candelaria Norte	Direc. Grl. de Catastro	Villa Candelaria Norte	142798	Córdoba	14	7,65E+08	Comuna	-298.240.610.680.012	-633.428.315.124.573	
+ Villa San Esteban	Direc. Grl. de Catastro	Villa San Esteban	142980	Córdoba	14	1,41E+08	Comuna	-316.455.668.750.732	-629.033.357.626.936	
+ Villa de Pocho	Direc. Grl. de Catastro	Villa de Pocho	142441	Córdoba	14	5,01E+09	Comuna	-314.730.827.915.556	-652.841.808.159.514	
+ Paso del Durazno	Direc. Grl. de Catastro	Paso del Durazno	142329	Córdoba	14	0.000270899257481966	Comuna	-331.488.335.972.339	-640.213.925.904.292	
+ Capilla del Monte	Direc. Grl. de Catastro	Capilla del Monte	140672	Córdoba	14	0.000612451271482151	Municipio	-308.478.650.515.881	-645.261.710.599.971	
+ Villa Fontana	Direc. Grl. de Catastro	Villa Fontana	140952	Córdoba	14	2,17E+09	Municipio	-308.951.889.539.233	-631.154.326.746.594	
+ Villa Huidobro	Direc. Grl. de Catastro	Villa Huidobro	140252	Córdoba	14	3,87E+09	Municipio	-348.396.563.912	-645.822.038.824.256	
+ Villa los Aromos	Direc. Grl. de Catastro	Villa los Aromos	143099	Córdoba	14	2,49E+09	Comuna	-317.198.998.965.797	-644.383.564.544.401	
+ Villa los Patos	Direc. Grl. de Catastro	Villa los Patos	143246	Córdoba	14	1,55E+08	Comuna	-327.675.652.636.145	-627.274.983.332.989	
+ Cosquín	Direc. Grl. de Catastro	Cosquín	140679	Córdoba	14	0.00880622364743796	Municipio	-312.301.247.634.122	-646.078.303.478.471	
+ Alta Gracia	Direc. Grl. de Catastro	Alta Gracia	141372	Córdoba	14	0.000953668854223553	Municipio	-316.506.235.252.463	-644.436.954.878.587	
+ Colonia Videla	Direc. Grl. de Catastro	Colonia Videla	142805	Córdoba	14	6,27E+08	Comuna	-319.169.547.649.849	-635.039.908.818.592	
+ Freyre	Direc. Grl. de Catastro	Freyre	141253	Córdoba	14	0.000101784434903625	Municipio	-311.656.648.235.175	-620.979.078.434.039	
+ Mina Clavero	Direc. Grl. de Catastro	Mina Clavero	141092	Córdoba	14	0.00154040320674827	Municipio	-316.760.818.624.427	-64.914.550.316.223	
+ Adelia María	Direc. Grl. de Catastro	Adelia María	140763	Córdoba	14	7,91E+09	Municipio	-336.333.900.311.039	-64.018.706.351.216	
+ Alcira	Direc. Grl. de Catastro	Alcira	140770	Córdoba	14	5,24E+09	Municipio	-327.517.122.016.285	-643.355.358.980.884	
+ Almafuerte	Direc. Grl. de Catastro	Almafuerte	141421	Córdoba	14	0.000522399683112227	Municipio	-322.022.805.517.205	-642.413.981.036.842	
+ Alpa Corral	Direc. Grl. de Catastro	Alpa Corral	140777	Córdoba	14	6,11E+09	Municipio	-32.682.752.317.234	-647.275.918.344.128	
+ Alto Alegre	Direc. Grl. de Catastro	Alto Alegre	141589	Córdoba	14	1,01E+09	Municipio	-323.422.198.194.663	-62.881.956.428.719	
+ Amboy	Direc. Grl. de Catastro	Amboy	142007	Córdoba	14	8,90E+09	Comuna	-321.764.282.380.889	-645.750.894.423.153	
+ Anisacate	Direc. Grl. de Catastro	Anisacate	142987	Córdoba	14	0.000144437739722109	Comuna	-317.138.413.750.519	-644.044.575.589.392	
+ Arroyo los Patos	Direc. Grl. de Catastro	Arroyo los Patos	142840	Córdoba	14	7,76E+09	Comuna	-317.642.195.618.748	-650.013.233.421.398	
+ Aldea Santa María	Direc. Grl. de Catastro	Aldea Santa María	143225	Córdoba	14	4,36E+08	Comuna	-336.993.242.969.668	-629.142.238.528.503	
+ Ausonia	Direc. Grl. de Catastro	Ausonia	140280	Córdoba	14	1,39E+09	Municipio	-325.890.346.393.292	-632.473.324.157.256	
+ Avellaneda	Direc. Grl. de Catastro	Avellaneda	142259	Córdoba	14	6,48E+08	Comuna	-305.973.098.047.243	-642.284.115.066.381	
+ Ballesteros Sud	Direc. Grl. de Catastro	Ballesteros Sud	141603	Córdoba	14	9,83E+08	Municipio	-325.887.950.634.732	-630.250.790.508.917	
+ Balnearia	Direc. Grl. de Catastro	Balnearia	141183	Córdoba	14	4,25E+09	Municipio	-310.090.169.258.664	-626.695.377.581.646	
+ Bañado de Soto	Direc. Grl. de Catastro	Bañado de Soto	142140	Córdoba	14	0.000345734602118466	Comuna	-308.036.031.227.312	-650.550.301.741.107	
+ Bell Ville	Direc. Grl. de Catastro	Bell Ville	141610	Córdoba	14	0.000273573250222912	Municipio	-326.187.289.822.799	-626.950.392.494.893	
+ Berrotarán	Direc. Grl. de Catastro	Berrotarán	140784	Córdoba	14	4,34E+09	Municipio	-3.244.800.784.576	-643.889.098.621.187	
+ Alejandro Roca	Direc. Grl. de Catastro	Alejandro Roca	140385	Córdoba	14	0.000129293036031576	Municipio	-333.442.762.498.231	-637.203.299.331.365	
+ Alejo Ledesma	Direc. Grl. de Catastro	Alejo Ledesma	140476	Córdoba	14	3,70E+09	Municipio	-335.987.357.093.936	-62.623.853.511.442	
+ Alicia	Direc. Grl. de Catastro	Alicia	141162	Córdoba	14	2,66E+09	Municipio	-319.393.591.274.177	-624.655.974.862.229	
+ Arroyo Cabral	Direc. Grl. de Catastro	Arroyo Cabral	140273	Córdoba	14	1,66E+09	Municipio	-324.891.001.131.456	-634.014.050.637.081	
+ Bouwer	Direc. Grl. de Catastro	Bouwer	142994	Córdoba	14	0.000177799314511462	Comuna	-31.549.740.886.705	-641.791.819.532.722	
+ Brinkmann	Direc. Grl. de Catastro	Brinkmann	141190	Córdoba	14	0.000101990244772872	Municipio	-308.738.051.951.416	-620.382.117.148.241	
+ Buchardo	Direc. Grl. de Catastro	Buchardo	140210	Córdoba	14	2,07E+08	Municipio	-347.236.789.574.212	-635.073.115.948.871	
+ Altos de Chipión	Direc. Grl. de Catastro	Altos de Chipión	141169	Córdoba	14	4,18E+09	Municipio	-309.547.219.317.203	-623.373.302.112.667	
+ Ana Zumarán	Direc. Grl. de Catastro	Ana Zumarán	143232	Córdoba	14	5,03E+08	Comuna	-323.920.332.150.246	-630.580.417.534.197	
+ Assunta	Direc. Grl. de Catastro	Assunta	142308	Córdoba	14	4,61E+08	Comuna	-336.337.692.253.498	-632.252.758.695.141	
+ Bulnes	Direc. Grl. de Catastro	Bulnes	140791	Córdoba	14	3,27E+08	Municipio	-335.042.811.125.423	-646.777.003.609.733	
+ Cabalango	Direc. Grl. de Catastro	Cabalango	142469	Córdoba	14	0.000111261694556819	Comuna	-31.400.900.660.068	-645.640.472.582.906	
+ Calchín	Direc. Grl. de Catastro	Calchín	140973	Córdoba	14	1,31E+09	Municipio	-316.676.543.704.963	-631.974.210.579.747	
+ Calchín Oeste	Direc. Grl. de Catastro	Calchín Oeste	140980	Córdoba	14	5,84E+08	Municipio	-318.626.925.094.345	-632.781.089.159.471	
+ Calmayo	Direc. Grl. de Catastro	Calmayo	142014	Córdoba	14	0.000153837488440034	Comuna	-320.456.338.882.203	-644.583.493.455.315	
+ Camilo Aldao	Direc. Grl. de Catastro	Camilo Aldao	140490	Córdoba	14	3,68E+09	Municipio	-331.268.229.039.745	-62.095.365.317.054	
+ Caminiaga	Direc. Grl. de Catastro	Caminiaga	143120	Córdoba	14	0.000138407183626601	Comuna	-300.636.109.406.398	-64.015.966.693.721	
+ Canals	Direc. Grl. de Catastro	Canals	141624	Córdoba	14	8,31E+09	Municipio	-335.586.948.564.453	-628.811.407.005.032	
+ Candelaria Sud	Direc. Grl. de Catastro	Candelaria Sud	143169	Córdoba	14	2,55E+07	Comuna	-308.433.176.604.863	-638.032.592.447.914	
+ Capilla de los Remedios	Direc. Grl. de Catastro	Capilla de los Remedios	142623	Córdoba	14	1,03E+09	Comuna	-314.269.081.145.413	-638.203.344.245.728	
+ Capilla del Carmen	Direc. Grl. de Catastro	Capilla del Carmen	140987	Córdoba	14	3,49E+08	Municipio	-315.078.552.559.627	-633.412.198.297.322	
+ Capilla del Sitón	Direc. Grl. de Catastro	Capilla del Sitón	143176	Córdoba	14	1,65E+07	Comuna	-305.721.396.926.692	-63.653.161.773.578	
+ Capitán General B. O'Higgins	Direc. Grl. de Catastro	Capitán General B. O'Higgins	140497	Córdoba	14	2,78E+09	Municipio	-332.490.438.734.254	-622.690.389.534.895	
+ Carnerillo	Direc. Grl. de Catastro	Carnerillo	140399	Córdoba	14	1,38E+09	Municipio	-329.166.449.024.458	-640.239.837.960.829	
+ Carrilobo	Direc. Grl. de Catastro	Carrilobo	140994	Córdoba	14	1,23E+09	Municipio	-318.688.626.120.995	-631.151.968.886.878	
+ Cañada de Río Pinto	Direc. Grl. de Catastro	Cañada de Río Pinto	142266	Córdoba	14	2,29E+08	Comuna	-307.405.230.006.184	-642.526.933.568.927	
+ Cerro Colorado	Direc. Grl. de Catastro	Cerro Colorado	142735	Córdoba	14	0.000212055536618129	Comuna	-301.019.030.224.683	-63.930.831.634.537	
+ Chaján	Direc. Grl. de Catastro	Chaján	140798	Córdoba	14	3,84E+08	Municipio	-335.562.216.707.363	-650.045.692.987.122	
+ Chalacea	Direc. Grl. de Catastro	Chalacea	142630	Córdoba	14	1,16E+09	Comuna	-307.632.052.336.575	-635.769.184.254.782	
+ Chancaní	Direc. Grl. de Catastro	Chancaní	142406	Córdoba	14	6,46E+09	Comuna	-314.141.204.299.092	-654.541.355.537.761	
+ Charbonier	Direc. Grl. de Catastro	Charbonier	142483	Córdoba	14	8,39E+09	Comuna	-307.610.604.781.622	-645.633.540.903.801	
+ Chazón	Direc. Grl. de Catastro	Chazón	140287	Córdoba	14	1,06E+09	Municipio	-330.779.841.520.433	-632.744.840.417.554	
+ Chañar Viejo	Direc. Grl. de Catastro	Chañar Viejo	142742	Córdoba	14	3,75E+09	Comuna	-299.924.994.136.235	-638.514.999.217.488	
+ Chilibroste	Direc. Grl. de Catastro	Chilibroste	141631	Córdoba	14	1,02E+09	Municipio	-323.326.918.177.426	-625.134.148.309.413	
+ Churqui Cañada	Direc. Grl. de Catastro	Churqui Cañada	143204	Córdoba	14	5,97E+08	Comuna	-302.150.807.804.174	-63.938.667.533.284	
+ Chuña	Direc. Grl. de Catastro	Chuña	142273	Córdoba	14	6,96E+08	Comuna	-304.549.727.642.068	-646.415.044.577.514	
+ Cañada de Machado	Direc. Grl. de Catastro	Cañada de Machado	142616	Córdoba	14	2,51E+08	Comuna	-314.291.231.437.251	-635.869.750.076.907	
+ Cañada del Sauce	Direc. Grl. de Catastro	Cañada del Sauce	142021	Córdoba	14	0.000131276033491375	Comuna	-323.827.196.464.223	-646.369.274.751.008	
+ Chuña Huasi	Direc. Grl. de Catastro	Chuña Huasi	143127	Córdoba	14	2,84E+08	Comuna	-298.939.402.837.581	-641.260.864.027.201	
+ Ciénaga del Coro	Direc. Grl. de Catastro	Ciénaga del Coro	142357	Córdoba	14	0.00160220478655093	Comuna	-310.053.157.543.172	-652.173.529.646.248	
+ Chucul	Direc. Grl. de Catastro	Chucul	142553	Córdoba	14	5,81E+07	Comuna	-330.108.482.213.758	-641.704.416.685.286	
+ Colonia Caroya	Direc. Grl. de Catastro	Colonia Caroya	140091	Córdoba	14	0.00110732311528213	Municipio	-310.541.541.597.821	-640.859.537.870.841	
+ Colonia Prosperidad	Direc. Grl. de Catastro	Colonia Prosperidad	141204	Córdoba	14	8,59E+08	Municipio	-316.255.205.424.057	-623.816.472.058.384	
+ Comechingones	Direc. Grl. de Catastro	Comechingones	142644	Córdoba	14	7,27E+08	Comuna	-311.716.888.632.059	-636.066.406.773.798	
+ Cintra	Direc. Grl. de Catastro	Cintra	141638	Córdoba	14	1,87E+08	Municipio	-323.087.285.653.744	-626.517.297.624.238	
+ Colonia Almada	Direc. Grl. de Catastro	Colonia Almada	141428	Córdoba	14	6,03E+08	Municipio	-320.344.936.485.779	-638.637.834.613.237	
+ Colonia Anita	Direc. Grl. de Catastro	Colonia Anita	142931	Córdoba	14	2,63E+08	Comuna	-311.210.986.173.448	-622.342.507.930.804	
+ Colonia Barge	Direc. Grl. de Catastro	Colonia Barge	142336	Córdoba	14	1,05E+09	Comuna	-332.560.592.578.889	-626.074.772.843.903	
+ Colonia Bismarck	Direc. Grl. de Catastro	Colonia Bismarck	141645	Córdoba	14	1,08E+08	Municipio	-333.005.078.918.635	-627.159.959.455.752	
+ Colonia Valtelina	Direc. Grl. de Catastro	Colonia Valtelina	142959	Córdoba	14	1,16E+08	Comuna	-310.524.082.685.551	-622.339.804.279.145	
+ Colonia Vicente Agüero	Direc. Grl. de Catastro	Colonia Vicente Agüero	142098	Córdoba	14	0.000245406688456218	Comuna	-310.166.675.793.953	-64.001.954.509.175	
+ Colonia Vignaud	Direc. Grl. de Catastro	Colonia Vignaud	141218	Córdoba	14	1,01E+09	Municipio	-308.424.347.299.693	-619.554.557.644.487	
+ Conlara	Direc. Grl. de Catastro	Conlara	142889	Córdoba	14	0.000331337541480329	Comuna	-320.781.856.148.427	-652.552.002.582.022	
+ Copacabana	Direc. Grl. de Catastro	Copacabana	142280	Córdoba	14	8,13E+08	Comuna	-306.442.603.235.698	-645.015.919.158.185	
+ Coronel Moldes	Direc. Grl. de Catastro	Coronel Moldes	140812	Córdoba	14	8,39E+09	Municipio	-336.213.761.643.601	-645.957.374.156.971	
+ Corralito	Direc. Grl. de Catastro	Corralito	141435	Córdoba	14	5,51E+09	Municipio	-320.255.900.678.864	-641.871.324.165.762	
+ Cruz Alta	Direc. Grl. de Catastro	Cruz Alta	140525	Córdoba	14	5,75E+08	Municipio	-330.062.840.802.659	-618.111.079.222.229	
+ Cruz de Caña	Direc. Grl. de Catastro	Cruz de Caña	142147	Córdoba	14	9,12E+09	Comuna	-310.828.883.237.064	-649.475.909.508.308	
+ Coronel Baigorria	Direc. Grl. de Catastro	Coronel Baigorria	140805	Córdoba	14	1,66E+09	Municipio	-328.535.584.171.106	-643.679.739.325.012	
+ Corral de Bustos	Direc. Grl. de Catastro	Corral de Bustos	140518	Córdoba	14	9,69E+09	Municipio	-33.279.888.011.005	-621.962.096.731.034	
+ Cuesta Blanca	Direc. Grl. de Catastro	Cuesta Blanca	142490	Córdoba	14	8,39E+09	Comuna	-31.485.021.397.287	-645.984.326.274.193	
+ Despeñaderos	Direc. Grl. de Catastro	Despeñaderos	141379	Córdoba	14	0.000431621823395805	Municipio	-318.023.733.963.541	-643.037.279.335.541	
+ Devoto	Direc. Grl. de Catastro	Devoto	141225	Córdoba	14	2,93E+09	Municipio	-314.054.517.995.146	-62.304.879.233.785	
+ Diego de Rojas	Direc. Grl. de Catastro	Diego de Rojas	142651	Córdoba	14	8,08E+08	Comuna	-310.276.086.920.172	-633.412.514.576.711	
+ Dique Chico	Direc. Grl. de Catastro	Dique Chico	143001	Córdoba	14	0.000287412987467187	Comuna	-317.181.315.346.149	-643.531.607.957.159	
+ Cruz del Eje	Direc. Grl. de Catastro	Cruz del Eje	140182	Córdoba	14	0.000300208319558714	Municipio	-307.457.001.539.119	-647.749.805.365.374	
+ El Arañado	Direc. Grl. de Catastro	El Arañado	141232	Córdoba	14	1,10E+09	Municipio	-317.420.994.285.225	-628.946.381.603.767	
+ Dalmacio Vélez	Direc. Grl. de Catastro	Dalmacio Vélez	141442	Córdoba	14	1,33E+09	Municipio	-326.124.531.244.939	-635.838.307.311.574	
+ Deán Funes	Direc. Grl. de Catastro	Deán Funes	140371	Córdoba	14	9,97E+09	Municipio	-304.227.482.302.615	-643.546.756.378.304	
+ El Manzano	Direc. Grl. de Catastro	El Manzano	142105	Córdoba	14	0.000235370743246011	Comuna	-310.820.615.291.112	-643.382.836.028.946	
+ El Brete	Direc. Grl. de Catastro	El Brete	142154	Córdoba	14	0.000268739365208686	Comuna	-30.656.276.826.198	-648.798.435.891.844	
+ El Tío	Direc. Grl. de Catastro	El Tío	141246	Córdoba	14	3,70E+08	Municipio	-313.889.356.919.298	-628.225.806.131.392	
+ Esquina	Direc. Grl. de Catastro	Esquina	142665	Córdoba	14	4,88E+08	Comuna	-310.965.547.596.048	-63.778.770.682.649	
+ Elena	Direc. Grl. de Catastro	Elena	140819	Córdoba	14	1,51E+09	Municipio	-325.699.065.743.136	-643.939.492.510.855	
+ Estación General Paz	Direc. Grl. de Catastro	Estación General Paz	142112	Córdoba	14	0.000670065836802304	Comuna	-311.228.499.839.105	-641.473.438.921.363	
+ Estación Juárez Celman	Direc. Grl. de Catastro	Estación Juárez Celman	140105	Córdoba	14	0.00077627756587078	Municipio	-312.437.846.823.994	-641.793.986.490.354	
+ Estancia Vieja	Direc. Grl. de Catastro	Estancia Vieja	142497	Córdoba	14	2,48E+09	Comuna	-313.861.392.102.136	-645.263.514.335.073	
+ Eufrasio Loza	Direc. Grl. de Catastro	Eufrasio Loza	142749	Córdoba	14	6,96E+08	Comuna	-299.249.635.677.759	-635.895.362.222.016	
+ Falda del Carmen	Direc. Grl. de Catastro	Falda del Carmen	143008	Córdoba	14	0.000585270080709117	Comuna	-315.761.981.297.038	-644.824.020.120.422	
+ General Baldissera	Direc. Grl. de Catastro	General Baldissera	140532	Córdoba	14	2,55E+08	Municipio	-331.235.893.332.124	-623.006.086.559.546	
+ Guanaco Muerto	Direc. Grl. de Catastro	Guanaco Muerto	142161	Córdoba	14	0.000288890459768491	Comuna	-304.602.024.394.053	-650.659.885.088.886	
+ James Craik	Direc. Grl. de Catastro	James Craik	141456	Córdoba	14	3,24E+09	Municipio	-321.653.801.707.883	-63.461.439.214.356	
+ General Roca	Direc. Grl. de Catastro	General Roca	140539	Córdoba	14	1,92E+09	Municipio	-327.275.119.390.043	-619.145.008.159.753	
+ Hernando	Direc. Grl. de Catastro	Hernando	141449	Córdoba	14	7,30E+09	Municipio	-324.298.361.512.602	-63.731.976.625.652	
+ Huanchilla	Direc. Grl. de Catastro	Huanchilla	140427	Córdoba	14	1,64E+09	Municipio	-336.666.603.550.782	-636.351.900.273.338	
+ Isla Verde	Direc. Grl. de Catastro	Isla Verde	140560	Córdoba	14	5,52E+09	Municipio	-332.384.139.982.863	-624.029.816.960.788	
+ Gütemberg	Direc. Grl. de Catastro	Gütemberg	142756	Córdoba	14	1,79E+09	Comuna	-29.703.741.548.894	-635.504.574.858.833	
+ Jovita	Direc. Grl. de Catastro	Jovita	140238	Córdoba	14	2,29E+09	Municipio	-345.175.313.443.449	-639.431.016.058.546	
+ Justiniano Posse	Direc. Grl. de Catastro	Justiniano Posse	141659	Córdoba	14	4,90E+09	Municipio	-32.885.115.618.459	-626.803.137.738.942	
+ Kilómetro 658	Direc. Grl. de Catastro	Kilómetro 658	142672	Córdoba	14	3,08E+08	Comuna	-313.696.370.548.369	-635.309.336.677.359	
+ La Batea	Direc. Grl. de Catastro	La Batea	142168	Córdoba	14	0.000166661014871578	Comuna	-304.282.384.273.219	-652.680.800.032.816	
+ Inriville	Direc. Grl. de Catastro	Inriville	140553	Córdoba	14	2,30E+09	Municipio	-329.444.827.064.459	-622.232.305.915.593	
+ Italó	Direc. Grl. de Catastro	Italó	140231	Córdoba	14	1,87E+09	Municipio	-347.873.745.654.291	-637.809.993.095.979	
+ La Calera	Direc. Grl. de Catastro	La Calera	140119	Córdoba	14	0.000520008780364991	Municipio	-313.267.269.836.109	-643.737.475.437.181	
+ La Carlota	Direc. Grl. de Catastro	La Carlota	140434	Córdoba	14	0.000193000561409779	Municipio	-334.137.059.352.071	-632.963.774.632.446	
+" La Carolina ""El Potosi"""	Direc. Grl. de Catastro	"La Carolina ""El Potosi"""	142560	Córdoba	14	2,98E+08	Comuna	-331.890.811.194.128	-647.267.491.840.149	
+ La Cruz	Direc. Grl. de Catastro	La Cruz	140014	Córdoba	14	0.000944615362273608	Municipio	-323.103.751.578.826	-644.805.613.408.482	
+ Villa Parque Siquiman	Direc. Grl. de Catastro	Villa Parque Siquiman	142532	Córdoba	14	6,70E+09	Comuna	-313.521.525.399.098	-644.926.944.882.209	
+ La Cumbre	Direc. Grl. de Catastro	La Cumbre	140693	Córdoba	14	0.0004064815236276	Municipio	-30.974.262.164.548	-645.043.560.850.964	
+ La Cumbrecita	Direc. Grl. de Catastro	La Cumbrecita	143015	Córdoba	14	0.000320103735028177	Comuna	-318.983.867.615.394	-647.864.838.705.701	
+ La Falda	Direc. Grl. de Catastro	La Falda	140700	Córdoba	14	0.000240281102186867	Municipio	-311.037.750.919.779	-645.246.847.485.322	
+ La Higuera	Direc. Grl. de Catastro	La Higuera	142175	Córdoba	14	4,23E+09	Comuna	-310.154.711.503.327	-651.033.033.166.762	
+ La Laguna	Direc. Grl. de Catastro	La Laguna	140301	Córdoba	14	1,04E+09	Municipio	-328.019.955.201.198	-632.462.465.865.663	
+ Córdoba	Direc. Grl. de Catastro	Córdoba	140077	Córdoba	14	0.00345160084177375	Municipio	-314.170.520.000.063	-641.832.233.457.647	
+ La Paisanita	Direc. Grl. de Catastro	La Paisanita	143022	Córdoba	14	0.00021062461863817	Comuna	-316.984.186.695.999	-644.786.608.714.555	
+ La Palestina	Direc. Grl. de Catastro	La Palestina	140308	Córdoba	14	7,95E+08	Municipio	-326.146.851.668.886	-634.099.507.025.161	
+ La Para	Direc. Grl. de Catastro	La Para	140903	Córdoba	14	6,89E+09	Municipio	-308.971.059.716.298	-629.963.436.299.142	
+ La Paz	Direc. Grl. de Catastro	La Paz	141127	Córdoba	14	0.00126879803799602	Municipio	-322.557.108.768.274	-650.934.018.857.064	
+ La Playa	Direc. Grl. de Catastro	La Playa	142385	Córdoba	14	0.000496262229570996	Comuna	-30.949.151.048.657	-653.481.568.256.985	
+ La Playosa	Direc. Grl. de Catastro	La Playosa	140315	Córdoba	14	1,61E+09	Municipio	-320.989.683.198.623	-630.325.027.208.143	
+ La Puerta	Direc. Grl. de Catastro	La Puerta	140910	Córdoba	14	1,89E+09	Municipio	-308.889.405.990.295	-632.544.937.671.195	
+ La Quinta	Direc. Grl. de Catastro	La Quinta	142686	Córdoba	14	9,00E+09	Comuna	-310.758.714.912.754	-631.503.504.553.572	
+ La Serranita	Direc. Grl. de Catastro	La Serranita	143036	Córdoba	14	3,30E+09	Comuna	-317.411.366.811.169	-644.617.824.313.022	
+ Las Albahacas	Direc. Grl. de Catastro	Las Albahacas	142567	Córdoba	14	2,42E+09	Comuna	-328.970.347.535.301	-648.169.079.716.602	
+ Las Arrias	Direc. Grl. de Catastro	Las Arrias	141547	Córdoba	14	5,62E+09	Municipio	-303.900.762.225.366	-635.849.095.072.049	
+ Las Bajadas	Direc. Grl. de Catastro	Las Bajadas	142028	Córdoba	14	1,74E+09	Comuna	-320.921.713.040.564	-643.402.635.611.922	
+ Las Caleras	Direc. Grl. de Catastro	Las Caleras	142035	Córdoba	14	0.000383044023513708	Comuna	-324.017.331.649.058	-645.188.920.061.475	
+ Las Calles	Direc. Grl. de Catastro	Las Calles	142847	Córdoba	14	0.000276899247331871	Comuna	-318.359.492.924.172	-649.288.940.967.688	
+ Las Cañadas	Direc. Grl. de Catastro	Las Cañadas	142182	Córdoba	14	0.000181412354996578	Comuna	-309.742.278.112.505	-647.644.259.351.544	
+ Las Gramillas	Direc. Grl. de Catastro	Las Gramillas	142693	Córdoba	14	4,24E+07	Comuna	-31.136.159.229.424	-63.266.471.175.762	
+ Las Palmas	Direc. Grl. de Catastro	Las Palmas	142413	Córdoba	14	4,38E+09	Comuna	-313.748.540.741.686	-653.329.790.750.063	
+ Las Perdices	Direc. Grl. de Catastro	Las Perdices	141463	Córdoba	14	2,63E+08	Municipio	-32.698.989.840.824	-637.067.140.965.955	
+ Las Peñas	Direc. Grl. de Catastro	Las Peñas	141519	Córdoba	14	2,46E+09	Municipio	-305.554.859.462.905	-640.024.875.130.835	
+ Las Peñas Sud	Direc. Grl. de Catastro	Las Peñas Sud	142574	Córdoba	14	5,46E+09	Comuna	-325.334.055.082.122	-641.083.139.877.237	
+ Las Playas	Direc. Grl. de Catastro	Las Playas	142189	Córdoba	14	0.000111435170703033	Comuna	-307.125.399.415.491	-648.512.005.429.178	
+ Las Varas	Direc. Grl. de Catastro	Las Varas	141281	Córdoba	14	8,74E+08	Municipio	-318.037.220.327.542	-626.189.189.981.065	
+ Las Rabonas	Direc. Grl. de Catastro	Las Rabonas	142854	Córdoba	14	0.000185691618174826	Comuna	-318.709.623.753.909	-649.489.427.851.813	
+ Las Saladas	Direc. Grl. de Catastro	Las Saladas	142700	Córdoba	14	7,02E+08	Comuna	-307.601.509.435.353	-632.043.193.813.076	
+ Las Tapias	Direc. Grl. de Catastro	Las Tapias	142903	Córdoba	14	0.000262295366266538	Comuna	-319.439.409.128.127	-651.083.345.433.486	
+ Las Varillas	Direc. Grl. de Catastro	Las Varillas	141288	Córdoba	14	0.000197955423606687	Municipio	-318.753.386.744.317	-627.085.088.077.584	
+ Leones	Direc. Grl. de Catastro	Leones	140567	Córdoba	14	6,91E+09	Municipio	-326.533.880.566.012	-622.977.757.843.412	
+ Los Cedros	Direc. Grl. de Catastro	Los Cedros	143043	Córdoba	14	9,78E+08	Comuna	-315.311.757.876.478	-642.883.373.164.957	
+ Los Chañaritos	Direc. Grl. de Catastro	Los Chañaritos	142819	Córdoba	14	0.000229248039592217	Comuna	-305.735.504.195.722	-649.612.218.742.981	
+ Los Cisnes	Direc. Grl. de Catastro	Los Cisnes	140441	Córdoba	14	6,48E+08	Municipio	-333.762.768.113.126	-634.708.798.480.832	
+ Los Hoyos	Direc. Grl. de Catastro	Los Hoyos	142770	Córdoba	14	8,24E+09	Comuna	-297.848.497.549.882	-636.266.756.739.874	
+ Los Molinos	Direc. Grl. de Catastro	Los Molinos	142042	Córdoba	14	7,13E+09	Comuna	-318.565.529.914.794	-643.791.077.708.501	
+ Los Surgentes	Direc. Grl. de Catastro	Los Surgentes	140574	Córdoba	14	2,86E+09	Municipio	-329.743.449.135.051	-620.146.845.594.701	
+ Lutti	Direc. Grl. de Catastro	Lutti	142056	Córdoba	14	0.00164447285322836	Comuna	-323.065.734.326.664	-647.377.888.610.421	
+ Luca	Direc. Grl. de Catastro	Luca	140322	Córdoba	14	6,06E+08	Municipio	-325.401.247.632.302	-634.773.914.681.508	
+ Los Reartes	Direc. Grl. de Catastro	Los Reartes	142049	Córdoba	14	0.000262099713171751	Comuna	-319.153.125.304.694	-645.898.352.613.713	
+ Lozada	Direc. Grl. de Catastro	Lozada	141386	Córdoba	14	1,15E+09	Municipio	-316.546.099.199.271	-64.093.711.769.734	
+ Malagueño	Direc. Grl. de Catastro	Malagueño	141393	Córdoba	14	0.00145792831810389	Municipio	-314.598.780.400.586	-64.396.789.360.534	
+ Malvinas Argentinas	Direc. Grl. de Catastro	Malvinas Argentinas	140133	Córdoba	14	0.000591884830185394	Municipio	-313.908.457.182.217	-640.104.566.694.891	
+ Marcos Juárez	Direc. Grl. de Catastro	Marcos Juárez	140581	Córdoba	14	0.000261444754482759	Municipio	-326.834.634.699.151	-621.053.184.551.732	
+ Mattaldi	Direc. Grl. de Catastro	Mattaldi	140245	Córdoba	14	3,32E+08	Municipio	-344.853.031.976.435	-641.779.147.615.068	
+ Mayu Sumaj	Direc. Grl. de Catastro	Mayu Sumaj	142504	Córdoba	14	2,74E+09	Comuna	-314.660.174.565.973	-64.549.632.214.915	
+ Media Naranja	Direc. Grl. de Catastro	Media Naranja	142203	Córdoba	14	0.000174298670002517	Comuna	-306.312.650.658.571	-649.392.510.631.274	
+ Mendiolaza	Direc. Grl. de Catastro	Mendiolaza	140140	Córdoba	14	0.000101154825880016	Municipio	-312.585.432.498.765	-642.848.467.061.892	
+ Miramar	Direc. Grl. de Catastro	Miramar	141302	Córdoba	14	4,76E+09	Municipio	-309.171.637.587.504	-626.691.619.837.422	
+ Monte Buey	Direc. Grl. de Catastro	Monte Buey	140588	Córdoba	14	4,31E+08	Municipio	-329.169.889.907.274	-624.531.499.125.634	
+ Monte Cristo	Direc. Grl. de Catastro	Monte Cristo	140917	Córdoba	14	0.00093549562480512	Municipio	-313.145.501.675.443	-639.009.959.981.404	
+ Monte Leña	Direc. Grl. de Catastro	Monte Leña	141673	Córdoba	14	1,62E+09	Municipio	-326.073.407.618.879	-625.887.953.092.074	
+ Monte Maíz	Direc. Grl. de Catastro	Monte Maíz	141680	Córdoba	14	5,35E+09	Municipio	-332.059.969.112.394	-626.035.104.209.721	
+ Monte Ralo	Direc. Grl. de Catastro	Monte Ralo	141400	Córdoba	14	6,89E+09	Municipio	-319.160.854.413.818	-642.355.903.371.877	
+ Morrison	Direc. Grl. de Catastro	Morrison	141687	Córdoba	14	1,72E+09	Municipio	-32.592.916.342.672	-628.337.927.569.311	
+ Morteros	Direc. Grl. de Catastro	Morteros	141309	Córdoba	14	0.000292833166265247	Municipio	-307.117.689.159.368	-620.091.537.289.313	
+ Noetinger	Direc. Grl. de Catastro	Noetinger	141694	Córdoba	14	6,70E+09	Municipio	-323.608.072.067.664	-623.132.776.257.758	
+ Obispo Trejo	Direc. Grl. de Catastro	Obispo Trejo	140924	Córdoba	14	1,94E+09	Municipio	-307.769.384.027.746	-634.166.185.018.715	
+ Olaeta	Direc. Grl. de Catastro	Olaeta	140448	Córdoba	14	1,51E+09	Municipio	-330.441.850.270.044	-639.100.511.143.704	
+ Oliva	Direc. Grl. de Catastro	Oliva	141477	Córdoba	14	8,52E+09	Municipio	-320.485.978.880.871	-635.570.228.461.854	
+ Olivares de San Nicolás	Direc. Grl. de Catastro	Olivares de San Nicolás	142294	Córdoba	14	5,57E+09	Comuna	-305.460.582.548.383	-648.787.665.881.544	
+ Onagoity	Direc. Grl. de Catastro	Onagoity	142231	Córdoba	14	6,70E+08	Comuna	-347.699.095.275.567	-636.717.128.404.408	
+ Oncativo	Direc. Grl. de Catastro	Oncativo	141050	Córdoba	14	0.000117522271478852	Municipio	-319.151.263.882.847	-636.760.024.082.064	
+ Ordóñez	Direc. Grl. de Catastro	Ordóñez	141701	Córdoba	14	3,33E+09	Municipio	-328.406.260.509.866	-62.864.507.904.134	
+ Pasco	Direc. Grl. de Catastro	Pasco	140329	Córdoba	14	1,69E+09	Municipio	-327.453.423.023.259	-633.402.135.333.334	
+ Paso Viejo	Direc. Grl. de Catastro	Paso Viejo	142210	Córdoba	14	2,58E+08	Comuna	-307.663.464.619.765	-651.910.942.537.931	
+ Pincen	Direc. Grl. de Catastro	Pincen	142238	Córdoba	14	7,39E+08	Comuna	-348.383.140.184.064	-639.175.546.184.509	
+ Pampayasta Sud	Direc. Grl. de Catastro	Pampayasta Sud	141484	Córdoba	14	5,20E+09	Municipio	-322.615.771.632.819	-636.532.371.104.857	
+ Pascanas	Direc. Grl. de Catastro	Pascanas	141708	Córdoba	14	1,24E+09	Municipio	-331.262.394.371.826	-630.411.760.442.872	
+ Piquillín	Direc. Grl. de Catastro	Piquillín	140931	Córdoba	14	7,93E+08	Municipio	-313.014.822.797.673	-637.592.227.132.231	
+ Plaza Luxardo	Direc. Grl. de Catastro	Plaza Luxardo	142966	Córdoba	14	5,02E+09	Comuna	-313.075.262.309.917	-621.458.650.159.189	
+ Porteña	Direc. Grl. de Catastro	Porteña	141316	Córdoba	14	0.000110608286523557	Municipio	-309.889.513.794.182	-62.063.204.317.245	
+ Pozo Nuevo	Direc. Grl. de Catastro	Pozo Nuevo	143134	Córdoba	14	1,87E+09	Comuna	-295.752.928.863.074	-641.248.945.764.177	
+ Puesto de Castro	Direc. Grl. de Catastro	Puesto de Castro	142777	Córdoba	14	8,47E+08	Comuna	-301.936.676.598.579	-634.025.697.720.489	
+ Punta del Agua	Direc. Grl. de Catastro	Punta del Agua	143162	Córdoba	14	9,50E+08	Comuna	-325.765.144.963.957	-638.111.899.638.921	
+ Quebracho Herrado	Direc. Grl. de Catastro	Quebracho Herrado	141323	Córdoba	14	5,25E+08	Municipio	-315.498.828.557.019	-622.270.479.672.393	
+ Quilino	Direc. Grl. de Catastro	Quilino	140378	Córdoba	14	9,16E+09	Municipio	-302.204.887.977.382	-64.477.822.148.941	
+ Rafael García	Direc. Grl. de Catastro	Rafael García	143057	Córdoba	14	5,75E+08	Comuna	-316.484.813.084.361	-642.614.633.616.075	
+ Reducción	Direc. Grl. de Catastro	Reducción	140455	Córdoba	14	3,66E+08	Municipio	-332.028.095.475.754	-638.627.303.675.096	
+ Rincón	Direc. Grl. de Catastro	Rincón	142826	Córdoba	14	1,77E+09	Comuna	-315.941.777.031.772	-636.262.147.970.324	
+ Río Cuarto	Direc. Grl. de Catastro	Río Cuarto	140861	Córdoba	14	0.00159666321951608	Municipio	-33.115.558.002.371	-643.570.883.812.807	
+ Río Primero	Direc. Grl. de Catastro	Río Primero	140938	Córdoba	14	7,75E+09	Municipio	-313.296.360.408.912	-636.234.759.919.454	
+ Río Segundo	Direc. Grl. de Catastro	Río Segundo	141071	Córdoba	14	0.000213041293284203	Municipio	-316.440.157.915.068	-639.009.945.616.551	
+ Río Tercero	Direc. Grl. de Catastro	Río Tercero	141491	Córdoba	14	0.00171560625629326	Municipio	-321.683.934.801.302	-641.027.089.402.001	
+ Sacanta	Direc. Grl. de Catastro	Sacanta	141330	Córdoba	14	1,59E+08	Municipio	-316.643.044.904.367	-630.467.526.560.951	
+ Saira	Direc. Grl. de Catastro	Saira	140595	Córdoba	14	1,04E+09	Municipio	-324.083.063.626.491	-621.010.565.233.928	
+ Saladillo	Direc. Grl. de Catastro	Saladillo	142343	Córdoba	14	1,47E+09	Comuna	-329.330.379.413.915	-623.430.346.300.725	
+ Saldán	Direc. Grl. de Catastro	Saldán	140154	Córdoba	14	3,37E+09	Municipio	-313.147.407.774.699	-643.108.946.086.379	
+ Salsacate	Direc. Grl. de Catastro	Salsacate	140609	Córdoba	14	0.00158087917596909	Municipio	-31.339.376.670.938	-651.282.172.380.766	
+ Salsipuedes	Direc. Grl. de Catastro	Salsipuedes	140161	Córdoba	14	0.000836104374024837	Municipio	-311.248.166.533.766	-643.006.220.022.838	
+ Sampacho	Direc. Grl. de Catastro	Sampacho	140868	Córdoba	14	0.00015158479768756	Municipio	-333.725.117.758.152	-647.081.087.013.992	
+ San Agustín	Direc. Grl. de Catastro	San Agustín	140056	Córdoba	14	0.000961123535591563	Municipio	-319.727.259.844.158	-643.764.401.661.818	
+ San Antonio de Arredondo	Direc. Grl. de Catastro	San Antonio de Arredondo	142511	Córdoba	14	0.000247541847293122	Comuna	-315.250.380.100.716	-64.544.108.451.202	
+ San Basilio	Direc. Grl. de Catastro	San Basilio	140875	Córdoba	14	2,38E+09	Municipio	-334.975.395.266.719	-643.154.562.518.364	
+ San Carlos Minas	Direc. Grl. de Catastro	San Carlos Minas	140602	Córdoba	14	0.000164405340384985	Municipio	-311.637.575.067.469	-650.830.995.258.615	
+ San Clemente	Direc. Grl. de Catastro	San Clemente	143064	Córdoba	14	0.000333247081089524	Comuna	-317.222.791.862.549	-646.344.801.875.431	
+ San Francisco	Direc. Grl. de Catastro	San Francisco	141337	Córdoba	14	0.00051565357923052	Municipio	-314.291.183.141.885	-621.082.677.652.083	
+ San Francisco del Chañar	Direc. Grl. de Catastro	San Francisco del Chañar	141414	Córdoba	14	0.000809314437562065	Municipio	-298.335.821.929.536	-639.388.834.433.132	
+ San Gerónimo	Direc. Grl. de Catastro	San Gerónimo	142427	Córdoba	14	5,80E+09	Comuna	-313.559.936.708.057	-6.492.941.454.369	
+ San Ignacio	Direc. Grl. de Catastro	San Ignacio	142063	Córdoba	14	0.000374322687301497	Comuna	-321.516.825.639.597	-645.469.099.126.919	
+ San José	Direc. Grl. de Catastro	San José	141141	Córdoba	14	0.000574415000094803	Municipio	-319.806.239.572.522	-653.167.014.254.429	
+ San Lorenzo	Direc. Grl. de Catastro	San Lorenzo	142868	Córdoba	14	0.000304385045377365	Comuna	-316.586.437.934.172	-650.051.014.087.656	
+ San Marcos Sierras	Direc. Grl. de Catastro	San Marcos Sierras	140189	Córdoba	14	7,90E+09	Municipio	-307.673.188.311.433	-646.511.803.149.359	
+ San Pedro	Direc. Grl. de Catastro	San Pedro	141106	Córdoba	14	0.000134191797054932	Municipio	-318.743.510.648.851	-652.450.584.934.844	
+ San Vicente	Direc. Grl. de Catastro	San Vicente	142875	Córdoba	14	0.00107768436261	Comuna	-318.370.903.607.737	-655.309.219.740.349	
+ Santa Elena	Direc. Grl. de Catastro	Santa Elena	142791	Córdoba	14	2,29E+09	Comuna	-301.147.826.429.304	-638.587.957.361.287	
+ Santa Rosa de Calamuchita	Direc. Grl. de Catastro	Santa Rosa de Calamuchita	140035	Córdoba	14	0.000637550265868607	Municipio	-32.075.302.961.898	-645.467.001.962.975	
+ Sauce Arriba	Direc. Grl. de Catastro	Sauce Arriba	142882	Córdoba	14	8,50E+09	Comuna	-319.111.884.774.186	-65.162.547.951.832	
+ Sarmiento	Direc. Grl. de Catastro	Sarmiento	141526	Córdoba	14	3,19E+09	Municipio	-30.774.969.440.319	-6.411.992.572.457	
+ Simbolar	Direc. Grl. de Catastro	Simbolar	143197	Córdoba	14	7,35E+08	Comuna	-304.759.380.124.635	-639.848.922.540.636	
+ Serrezuela	Direc. Grl. de Catastro	Serrezuela	140196	Córdoba	14	0.000265484027594926	Municipio	-305.673.524.944.777	-653.514.532.144.563	
+ Sinsacate	Direc. Grl. de Catastro	Sinsacate	141533	Córdoba	14	0.000189607319725136	Municipio	-309.422.713.589.299	-640.806.973.366.608	
+ Suco	Direc. Grl. de Catastro	Suco	142588	Córdoba	14	6,71E+08	Comuna	-334.414.356.242.941	-648.290.466.867.185	
+ Tancacha	Direc. Grl. de Catastro	Tancacha	141498	Córdoba	14	2,68E+09	Municipio	-322.395.132.273.511	-639.792.575.326.274	
+ Tanti	Direc. Grl. de Catastro	Tanti	140728	Córdoba	14	0.000213387850162362	Municipio	-313.619.877.805.978	-645.694.692.159.224	
+ Tala Cañada	Direc. Grl. de Catastro	Tala Cañada	142434	Córdoba	14	0.000512796928645955	Comuna	-313.589.576.280.074	-649.982.605.968.852	
+ Tala Huasi	Direc. Grl. de Catastro	Tala Huasi	142525	Córdoba	14	1,56E+09	Comuna	-314.670.111.937.152	-6.457.278.414.827	
+ Ticino	Direc. Grl. de Catastro	Ticino	140343	Córdoba	14	2,48E+09	Municipio	-326.948.787.489.748	-634.350.474.292.111	
+ Tío Pujio	Direc. Grl. de Catastro	Tío Pujio	140350	Córdoba	14	1,74E+09	Municipio	-322.799.480.172.569	-6.335.177.573.013	
+ Tosquita	Direc. Grl. de Catastro	Tosquita	140889	Córdoba	14	1,19E+09	Municipio	-338.214.399.062.638	-644.611.155.218.709	
+ Tuclame	Direc. Grl. de Catastro	Tuclame	142217	Córdoba	14	2,59E+08	Comuna	-307.468.404.971.543	-652.357.340.089.556	
+ Toro Pujio	Direc. Grl. de Catastro	Toro Pujio	142973	Córdoba	14	1,61E+08	Comuna	-311.056.274.024.481	-629.975.126.154.702	
+ Tosno	Direc. Grl. de Catastro	Tosno	142399	Córdoba	14	0.000747311917450644	Comuna	-309.455.846.794.062	-652.828.381.577.686	
+ Tránsito	Direc. Grl. de Catastro	Tránsito	141358	Córdoba	14	2,25E+09	Municipio	-314.313.249.034.113	-631.947.377.387.049	
+ Ucacha	Direc. Grl. de Catastro	Ucacha	140469	Córdoba	14	3,42E+09	Municipio	-330.317.994.602.079	-63.507.135.543.766	
+ Valle de Anisacate	Direc. Grl. de Catastro	Valle de Anisacate	143071	Córdoba	14	9,98E+08	Comuna	-317.350.762.329.001	-644.192.206.419.266	
+ Viamonte	Direc. Grl. de Catastro	Viamonte	141736	Córdoba	14	2,54E+09	Municipio	-337.473.048.096.682	-630.994.810.512.003	
+ Vicuña Mackenna	Direc. Grl. de Catastro	Vicuña Mackenna	140896	Córdoba	14	0.000121823336200276	Municipio	-339.288.149.320.525	-644.072.934.720.761	
+ Unquillo	Direc. Grl. de Catastro	Unquillo	140168	Córdoba	14	0.000462114503545975	Municipio	-312.192.351.356.385	-643.345.156.620.741	
+ Villa Amancay	Direc. Grl. de Catastro	Villa Amancay	142077	Córdoba	14	0.00023266820072314	Comuna	-322.182.599.982.267	-64.580.560.197.772	
+ Villa Ciudad Parque los Reartes	Direc. Grl. de Catastro	Villa Ciudad Parque los Reartes	142084	Córdoba	14	0.000392260585332035	Comuna	-318.897.835.985.433	-645.215.690.751.297	
+ Villa Carlos Paz	Direc. Grl. de Catastro	Villa Carlos Paz	140742	Córdoba	14	0.00048320073861293	Municipio	-314.206.918.540.759	-645.088.844.540.427	
+ Villa Cerro Azul	Direc. Grl. de Catastro	Villa Cerro Azul	142126	Córdoba	14	4,20E+09	Comuna	-31.071.705.029.281	-643.300.094.291.551	
+ Villa Ciudad de América	Direc. Grl. de Catastro	Villa Ciudad de América	143078	Córdoba	14	0.000450434839195137	Comuna	-317.668.626.505.577	-645.156.567.958.551	
+ Villa Cura Brochero	Direc. Grl. de Catastro	Villa Cura Brochero	141113	Córdoba	14	2,01E+09	Municipio	-31.709.906.354.572	-650.155.388.613.377	
+ Villa de las Rosas	Direc. Grl. de Catastro	Villa de las Rosas	141148	Córdoba	14	0.000572170050348444	Municipio	-31.939.449.162.597	-650.365.731.182.786	
+ Villa de María	Direc. Grl. de Catastro	Villa de María	140966	Córdoba	14	0.000222691943083959	Municipio	-298.941.782.214.697	-637.251.634.049.095	
+ Villa del Rosario	Direc. Grl. de Catastro	Villa del Rosario	141085	Córdoba	14	8,61E+09	Municipio	-315.570.088.932.439	-635.340.745.893.101	
+ Villa de Soto	Direc. Grl. de Catastro	Villa de Soto	140203	Córdoba	14	0.000150481422195265	Municipio	-308.690.814.087.168	-65.007.397.762.367	
+ Villa del Totoral	Direc. Grl. de Catastro	Villa del Totoral	141540	Córdoba	14	8,06E+09	Municipio	-307.095.120.032.809	-640.569.454.757.473	
+ Villa el Chacay	Direc. Grl. de Catastro	Villa el Chacay	142595	Córdoba	14	3,27E+09	Comuna	-32.894.408.635.154	-648.658.820.184.979	
+ Villa Elisa	Direc. Grl. de Catastro	Villa Elisa	142350	Córdoba	14	9,44E+07	Comuna	-328.338.792.756.203	-622.950.011.450.932	
+ Villa Dolores	Direc. Grl. de Catastro	Villa Dolores	141155	Córdoba	14	0.000592992486825241	Municipio	-319.771.247.818.656	-652.015.131.268.781	
+ Villa Gutiérrez	Direc. Grl. de Catastro	Villa Gutiérrez	142301	Córdoba	14	2,22E+09	Comuna	-306.956.206.838.802	-641.911.110.471.149	
+ Villa General Belgrano	Direc. Grl. de Catastro	Villa General Belgrano	140049	Córdoba	14	0.000829993198368252	Municipio	-319.843.739.756.545	-645.854.153.620.909	
+ Villa Giardino	Direc. Grl. de Catastro	Villa Giardino	140749	Córdoba	14	0.000425149711582482	Municipio	-31.040.129.320.429	-645.134.379.250.387	
+ Villa María	Direc. Grl. de Catastro	Villa María	140357	Córdoba	14	0.000530870851120435	Municipio	-324.031.012.852.999	-632.366.303.163.216	
+ Villa Parque Santa Ana	Direc. Grl. de Catastro	Villa Parque Santa Ana	143106	Córdoba	14	0.000230224581248522	Comuna	-315.902.804.153.487	-643.471.770.630.551	
+ Villa Quillinzo	Direc. Grl. de Catastro	Villa Quillinzo	142091	Córdoba	14	0.000154229526196558	Comuna	-322.419.722.792.215	-645.299.853.710.022	
+ Villa Río Icho Cruz	Direc. Grl. de Catastro	Villa Río Icho Cruz	142546	Córdoba	14	5,87E+09	Comuna	-31.486.607.973.038	-645.618.964.195.508	
+ Villa Sarmiento (S. A.)	Direc. Grl. de Catastro	Villa Sarmiento (S. A.)	141120	Córdoba	14	0.000290875344442529	Municipio	-341.500.199.451.459	-64.736.285.034.239	
+ Villa Tulumba	Direc. Grl. de Catastro	Villa Tulumba	141582	Córdoba	14	3,17E+09	Municipio	-303.958.819.067.891	-641.206.106.410.778	
+ Villa Rumipal	Direc. Grl. de Catastro	Villa Rumipal	140063	Córdoba	14	0.00014188582073348	Municipio	-321.625.608.439.289	-644.858.600.100.432	
+ Villa Santa Cruz del Lago	Direc. Grl. de Catastro	Villa Santa Cruz del Lago	142539	Córdoba	14	4,34E+09	Comuna	-313.705.588.269.763	-645.104.902.375.029	
+ Villa Valeria	Direc. Grl. de Catastro	Villa Valeria	140259	Córdoba	14	2,52E+09	Municipio	-343.414.551.616.036	-649.192.025.001.429	
+ Wenceslao Escalante	Direc. Grl. de Catastro	Wenceslao Escalante	141743	Córdoba	14	1,34E+09	Municipio	-331.716.374.700.178	-627.704.160.998.211	
+ Los Cóndores	Direc. Grl. de Catastro	Los Cóndores	140021	Córdoba	14	0.00154498667948041	Municipio	-322.941.267.136.032	-642.631.745.771.009	
+ Villa Nueva	Direc. Grl. de Catastro	Villa Nueva	140364	Córdoba	14	0.000154251677483599	Municipio	-324.348.778.297.543	-632.624.459.627.598	
+ Villa San Isidro	Direc. Grl. de Catastro	Villa San Isidro	143113	Córdoba	14	0.000533485634359042	Comuna	-318.046.885.379.658	-644.161.559.167.215	
+ Santa Rosa de Río Primero	Direc. Grl. de Catastro	Santa Rosa de Río Primero	140945	Córdoba	14	2,85E+09	Municipio	-311.533.189.906.775	-634.030.104.122.576	
+ Villa Sarmiento (G.R.)	Direc. Grl. de Catastro	Villa Sarmiento (G.R.)	142252	Córdoba	14	4,55E+09	Comuna	-319.200.351.681.617	-651.928.848.099.619	
+ Washington	Direc. Grl. de Catastro	Washington	142602	Córdoba	14	7,29E+08	Comuna	-338.748.130.316.447	-646.907.512.956.001	
